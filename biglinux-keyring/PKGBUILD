@@ -8,8 +8,8 @@
 # Pierre Schmitz <pierre@archlinux.de>
 
 pkgname=biglinux-keyring
-pkgver=
-pkgrel=
+pkgver=20220827
+pkgrel=3
 pkgdesc='BigLinux PGP keyring'
 arch=('any')
 url='http://biglinux.com.br'
